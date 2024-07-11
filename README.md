@@ -27,10 +27,9 @@ O objetivo do projeto é oferecer uma experiência intuitiva e prática para os 
 
 ## Capturas de Tela
 
-![Captura de Tela 1](https://seuprojeto.vercel.app/assets/screenshots/screenshot1.png)
-![Captura de Tela 2](https://seuprojeto.vercel.app/assets/screenshots/screenshot2.png)
-![Captura de Tela 3](https://seuprojeto.vercel.app/assets/screenshots/screenshot3.png)
-![Captura de Tela 4](https://seuprojeto.vercel.app/assets/screenshots/screenshot4.png)
+![Captura de Tela 1](https://github.com/maiconsbotelho/tarefas/blob/main/public/assets/screenshot-1.png)
+![Captura de Tela 2](https://github.com/maiconsbotelho/tarefas/blob/main/public/assets/screenshot-2.png)
+![Captura de Tela 3](https://github.com/maiconsbotelho/tarefas/blob/main/public/assets/screenshot-3.png)
 
 ## Contribuição
 
