@@ -12,11 +12,10 @@ const Painel = () => {
 
   // Retorna o botão para acessar o painel
   return (
-    <Link
-      href="/dashboard"
-      className="bg-secondary xs:text-lg text-center text-primary mx-4 rounded-md px-4 py-1 text-xs"
-    >
-      Meu Painel
+    <Link href="/dashboard" legacyBehavior>
+      <a className="bg-secondary xs:text-lg text-primary mx-4 rounded-md px-4 py-1 text-center text-xs">
+        Meu Painel
+      </a>
     </Link>
   );
 };
