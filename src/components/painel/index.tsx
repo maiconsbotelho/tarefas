@@ -14,7 +14,7 @@ const Painel = () => {
   return (
     <Link
       href="/dashboard"
-      className="bg-secondary text-primary mx-4 rounded-md px-4 py-1"
+      className="bg-secondary xs:text-lg text-center text-primary mx-4 rounded-md px-4 py-1 text-xs"
     >
       Meu Painel
     </Link>

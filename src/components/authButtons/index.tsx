@@ -18,7 +18,7 @@ const AuthButtons = () => {
         // Botão para deslogar
         <button
           onClick={() => signOut()}
-          className="border-secondary text-secondary hover:bg-secondary hover:text-primary cursor-pointer rounded-3xl border-2 bg-transparent px-8 py-2 duration-300 hover:scale-105 hover:transform hover:font-bold"
+          className="border-secondary text-xs xs:text-lg text-secondary hover:bg-secondary hover:text-primary cursor-pointer rounded-3xl border-2 bg-transparent px-8 py-2 duration-300 hover:scale-105 hover:transform hover:font-bold"
         >
           Olá {session?.user?.name}
         </button>
