@@ -1,40 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Tarefas+
 
-## Getting Started
+O projeto **Tarefas+** foi desenvolvido em **React** com o framework **Next.js**. É uma aplicação web para organização de tarefas, proporcionando uma plataforma online para os usuários gerenciarem suas atividades de forma fácil e eficiente. Como banco de dados, foi utilizado o **Firebase**, garantindo armazenamento seguro e acesso rápido às informações. A estilização foi feita com **Tailwind CSS**, assegurando um design responsivo e moderno que funciona bem em dispositivos móveis e desktops.
 
-First, run the development server:
+O objetivo do projeto é oferecer uma experiência intuitiva e prática para os usuários, permitindo o gerenciamento de tarefas e visualização de comentários, ao mesmo tempo em que promove a organização pessoal.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**Acesse a [Tarefas+](https://tarefas-maicon.vercel.app/)** para experimentar!
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Funcionalidades Adicionais
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+- **Gerenciamento de Tarefas**: Os usuários podem adicionar, editar e visualizar suas tarefas de forma eficiente.
+- **Comentários**: Permite aos usuários adicionar comentários às tarefas e visualizá-los em tempo real.
+- **Informações em Tempo Real**: A aplicação atualiza automaticamente a quantidade de tarefas e comentários.
+- **Design Responsivo**: Proporciona uma experiência de uso consistente em dispositivos móveis e desktops.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## Tecnologias Utilizadas
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+[![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-14.2-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-06B6D4?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-9.0-FFCA28?logo=firebase&logoColor=white)](https://firebase.google.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/seuusuario/tarefas)
+[![Vercel](https://img.shields.io/badge/Vercel-Deploy-000000?logo=vercel&logoColor=white)](https://vercel.com/)
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## Capturas de Tela
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![Captura de Tela 1](https://seuprojeto.vercel.app/assets/screenshots/screenshot1.png)
+![Captura de Tela 2](https://seuprojeto.vercel.app/assets/screenshots/screenshot2.png)
+![Captura de Tela 3](https://seuprojeto.vercel.app/assets/screenshots/screenshot3.png)
+![Captura de Tela 4](https://seuprojeto.vercel.app/assets/screenshots/screenshot4.png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Contribuição
 
-## Deploy on Vercel
+Contribuições são bem-vindas! Sinta-se à vontade para sugerir melhorias, relatar problemas ou enviar pull requests.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Autor
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Maicon Botelho - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/maiconbotelho/)
